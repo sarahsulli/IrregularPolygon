@@ -2,7 +2,7 @@ import java.awt.geom.*;     // for Point2D.Double
 import java.util.ArrayList; // for ArrayList
 import gpdraw.*;            // for DrawingTool
 
-public class IrregularPolygon
+public class SarahSullivan
 {
     private static String name = "Sarah Sullivan";
     public String getName()
@@ -14,7 +14,7 @@ public class IrregularPolygon
     private DrawingTool myPencil;
 
     // constructors
-    public IrregularPolygon() 
+    public SarahSullivan() 
     {
         myPolygon = new ArrayList<Point2D.Double>();    
         myPaper = new SketchPad(500,500);

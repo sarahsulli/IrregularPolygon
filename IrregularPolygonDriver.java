@@ -4,7 +4,7 @@ public class IrregularPolygonDriver
 {
     public static void main(String [] args)
     {
-        IrregularPolygon polygon1 = new IrregularPolygon();
+        SarahSullivan polygon1 = new SarahSullivan();
         System.out.println("Student name: " + polygon1.getName()); //expects your name to be returned
         polygon1.add(new Point2D.Double(0, 0));
         polygon1.add(new Point2D.Double(0, 10));
@@ -15,7 +15,7 @@ public class IrregularPolygonDriver
         System.out.println("Area: " + polygon1.area()); //expects 100
         System.out.println("Perimeter: " + polygon1.perimeter()); //expects 40
         
-        IrregularPolygon polygon2 = new IrregularPolygon();
+        SarahSullivan polygon2 = new SarahSullivan();
         System.out.println("Student name: " + polygon1.getName()); //expects your name to be returned
         polygon2.add(new Point2D.Double(0, 0));
         polygon2.add(new Point2D.Double(0, 10));
@@ -25,7 +25,7 @@ public class IrregularPolygonDriver
         System.out.println("Area: " + polygon2.area()); //expects 50
         System.out.println("Perimeter: " + polygon2.perimeter()); //expects 34.14
         
-        IrregularPolygon polygon3 = new IrregularPolygon();
+        SarahSullivan polygon3 = new SarahSullivan();
         System.out.println("Student name: " + polygon1.getName()); //expects your name to be returned
         polygon3.add(new Point2D.Double(0, 0));
         polygon3.add(new Point2D.Double(0, 10));

@@ -1,9 +1,9 @@
 #BlueJ class context
-comment0.target=IrregularPolygon
+comment0.target=SarahSullivan
 comment1.params=
 comment1.target=java.lang.String\ getName()
 comment2.params=
-comment2.target=IrregularPolygon()
+comment2.target=SarahSullivan()
 comment3.params=aPoint
 comment3.target=void\ add(java.awt.geom.Point2D.Double)
 comment4.params=
